@@ -12,5 +12,7 @@ public class Newone {
 		driver.get("https://study.monetanalytics.com/survey_builder/#/survey/dashboard");
 		
 	}
+String priyanka = "chopra";
 
+String hello = "hello world";
 }
